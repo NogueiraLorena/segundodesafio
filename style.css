@@ -1,0 +1,28 @@
+#corpo {
+    background-color: lightblue;
+    border: solid black;
+    height: 450px;
+    width: 550px;
+  }
+  
+  #cabeçalho {
+    background-color: darkslategray;
+  }
+  .boasVindas {
+    background-color: darkcyan;
+    width: 550px;
+    height: 43px;
+    margin: 2 5 10 0;
+  }
+  
+  .redesSociais {
+    background-color: darkcyan;
+    border: solid black;
+    width: 550px;
+    height: 30px;
+  }
+  /* .questoes {
+    padding: 0 10 0 7;
+  } */
+
+  /* até que, para um dos primeiros códigos em CSS, eu tentei dar uma boa harmonia de cores */
